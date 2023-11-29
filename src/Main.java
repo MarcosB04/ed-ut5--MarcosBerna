@@ -31,6 +31,7 @@ public class Main {
 
             System.out.println("La superficie de la esfera es = " + calculaSuperficie());           //Imprimimos el resultado de nuestras funciones
             System.out.println("El volumen de la esfera es = " + calculaVolumen());
+            System.out.println("Estos son los resultados del radio");
         }
 
 
